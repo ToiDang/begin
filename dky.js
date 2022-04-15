@@ -32,7 +32,7 @@ function canhbao(){
 }
 function insert(){
     var tendangnhap = document.getElementById('tendangnhap').value;
-    var pass1 = document.getElementById('pass1');
+    var pass1 = document.getElementById('pass1').value;
     function creatck(name,value)
     {
         document.cookie=name+"="+value;
