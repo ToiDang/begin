@@ -1,0 +1,42 @@
+body{
+
+    margin-top: 0;
+    background: linear-gradient(to left, #14a7d4, #95ac5d);
+
+}
+.dangky{
+    max-width: 335px;
+    padding: 32px;
+    margin: 100px auto 0 auto;
+    background-color: rgb(0,0, 0,0.8);
+    position: relative;
+}
+.tb {
+    margin: auto;
+    padding: 8px 0;;
+}
+.tb input{
+    margin:0 0 15px 0;
+    width: 100%;
+    height: 20px;
+    color: white;
+    background: transparent;
+    outline: 0;
+    border: 0;
+    border-bottom: 2px solid silver;
+}
+.dangky button{
+    width: 100%;
+    height: 30px;
+    color: white;
+    border: none;
+    background-color: rgba(0, 0, 0, 0.4);
+    cursor: pointer;
+}
+.dangky button:hover{
+    background-color: black;
+}
+.dangky button:active{
+    background-color: rgba(0, 0, 0, 0.4);
+}
+ 
