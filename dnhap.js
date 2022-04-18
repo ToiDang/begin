@@ -45,7 +45,7 @@ function dangnhap()
     if(gettaikhoang(tendangnhap)!=undefined && getpass(tendangnhap)==pass)
     {
         
-        window.location = 'http://127.0.0.1:5500/trangchu.html';
+        window.location = 'https://toidang.github.io/begin//trangchu.html';
         
         // alert("Đăng nhập thành công");
     }
